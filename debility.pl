@@ -1,2 +1,3 @@
 #!/usr/bin/perl -w
+# ppencode http://namazu.org/~takesako/ppencode/demo.html
 length q continue vec and print chr ord uc q chr lc and print chr ord q ne sin and print chr ord qw q lc q and print chr ord qw q lc q and print chr ord q pop and print chr oct oct ord uc qw q bless q and print chr ord q q eq and print chr ord qw q glob q and print chr ord q tie lt and print chr ord q lt eval and print chr ord q q q and print chr ord qw q warn q and print chr ord q pop and print chr ord q or no and print chr ord qw q lc q and print chr ord qw q do q and print chr hex length q q semctl setpgrp chop q and print chr hex length q q bless localtime ref q
